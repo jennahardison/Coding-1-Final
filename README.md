@@ -1,2 +1,2 @@
 # Coding-1-Final
-
+Hi, this website is all about me. The purpose of this website is for whoever visits it gets to know me a little better. On the index page, you can find a picture of me in the picture carousel and the title "Jenna's Website". On the about page you can learn a little bit about me. I've included some of my hobbies, what I love the most (music), and a few basic facts about myself. The about page also includes a picture of myself and the title "About Jenna". On the contact page, you can find my personal email, school email, and phone number. Finally, the title of the contact page is "Contact Jenna". I hope you enjoy learning a little about me and maybe we even have something in common! 
